@@ -26,7 +26,7 @@ public class Class3day6 {
 			break;	
 		default :
 			System.out.println("F");
-		}
+		}   
 		
 		
 		
